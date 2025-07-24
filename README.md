@@ -1,1 +1,3 @@
-#this is my first project for this class for now...
+#This is my first project
+My name is Franck Tchapock
+Nous vous exhortons a vous y mettre 100% pour un success.
